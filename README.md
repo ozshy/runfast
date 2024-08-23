@@ -6,7 +6,7 @@ R-code for Figure 3 in an article entitled:
 
 By, Oz Shy
 
-The R-code "runfast_2024_x_y.R" draws Figure 3 in the paper (simulations of optimal liquidity requirement under fast bailout). 
+The R-code "runfast_2024_x_y.R" draws Figure 6 in the paper (simulations of optimal liquidity requirement under fast bailout). 
 
 All algebraic derivations for the above article (not related to the R-code) can be found on "runfast_2024_x_y.pdf" (which the reader can download). The reader can then scroll down to the desired derivation using the same section, subsection, and equation numbers correspoding to the paper itself.
 
