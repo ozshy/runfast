@@ -1,6 +1,6 @@
 # runfast
 
-R-code for Figure 3 in an article entitled:
+R-code for Figure 6 in an article entitled:
 
 "Faster Bank Runs"
 
